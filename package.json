@@ -1,0 +1,15 @@
+{
+  "name": "oauth-jaccount",
+  "version": "0.0.1",
+  "description": "A simple warpper for SJTU Jaccount OAuth2 login",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SSTIA/node-oauth-jaccount.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.29.0",
+    "oauth": "^0.9.15"
+  },
+  "main": "oauth-jaccount.js"
+}
