@@ -11,5 +11,6 @@
     "config": "^1.29.0",
     "oauth": "^0.9.15"
   },
+  "devDependencies": {},
   "main": "oauth-jaccount.js"
 }
